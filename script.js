@@ -327,10 +327,10 @@ function showSuccessMessage() {
                         <li>환급 절차 시작</li>
                     </ol>
                 </div>
-                <button class="cta-button" onclick="scrollToSection('contact')">
-                    <i class="fas fa-phone"></i>
-                    문의하기
-                </button>
+                                 <button class="cta-button" onclick="scrollToSection('contact')">
+                     <i class="fas fa-phone"></i>
+                     상담신청
+                 </button>
             </div>
         </div>
     `;
